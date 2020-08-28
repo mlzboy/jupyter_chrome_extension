@@ -38,13 +38,13 @@ Access to your information is given only as discussed below, but we won’t give
 
 ## Review and Deletion of Personal Information
 
-If you cease to agree with Kami’s terms of use and privacy policy at some point in the future, you may opt-out and have your personally identifiable information stored by Kami removed from our system by contacting us directly at privacy@kamiapp.com. We will respond to your request within 30 days.
+If you cease to agree with Jupyter Notebook code snippet’s terms of use and privacy policy at some point in the future, you may opt-out and have your personally identifiable information stored by Jupyter Notebook code snippet removed from our system by contacting us directly at 2169055705@qq.com. We will respond to your request within 30 days.
 
-If you wish to review your personally identifiable information stored by Kami, you may email us your request at privacy@kamiapp.com . We will respond to your request within 30 days.
+If you wish to review your personally identifiable information stored by Jupyter Notebook code snippet, you may email us your request at 2169055705@qq.com . We will respond to your request within 30 days.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change directly in the user profile in the Kami App, or email us at privacy@kamiapp.com . We will respond to your request within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change directly in the user profile in the Jupyter Notebook code snippet, or email us at 2169055705@qq.com . We will respond to your request within 30 days.
 
-We will retain your information only for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at support@kamiapp.com. We will only retain and use your information as necessary to comply with our legal obligations.
+We will retain your information only for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at 2169055705@qq.com. We will only retain and use your information as necessary to comply with our legal obligations.
 
 ## Cookies and similar technologies used
 
