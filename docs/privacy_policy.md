@@ -1,6 +1,6 @@
 # Standard Privacy Policy
 
-Last updated: August 31st 2020
+Last updated: August 28th 2020
 
 Thanks for using Jupyter Notebook code snippet! Here we describe how we collect, use and handle your information when you use our websites, software and services (“Services”).
 
